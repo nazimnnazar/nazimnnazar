@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **nazimnnazar123456@gmail.com**
 
--⚡ Always eager to learn new things 
+- ⚡ Always eager to learn new things 
 
 
 
