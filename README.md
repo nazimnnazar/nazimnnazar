@@ -3,6 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nazim N Nazar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinefernandes&label=Profile%20views&color=0e75b6&style=flat" alt="valentinefernandes" /> </p>
 
 ## 🙋‍♂️ About Me
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
@@ -18,9 +20,6 @@
 - ⚡ Fun fact **I play games .**
 
 ## 🚀 Languages and Tools:
-<p align="left">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentine fernandes" height="30" width="40" /></a>
-</p>  
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   
