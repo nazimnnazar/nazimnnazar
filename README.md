@@ -64,8 +64,7 @@
   <a href="https://github.com/nazimnnazar/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazimnnazar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazimnnazar&show_icons=true&locale=en&layout=compact" alt="nazimnnazar" />
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+ 
 
 <br/>
 <br/>
