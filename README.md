@@ -24,7 +24,9 @@
 
 - 📫 How to reach me **nazimnnazar123456@gmail.com**
 
-- ⚡ Fun fact **Gaming.**
+-⚡ Always eager to learn new things 
+
+
 
 <br><br>
 ## 🚀 Languages and Tools:
