@@ -14,15 +14,17 @@
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://nazimnnazar.pythonanywhere.com/)** 
+
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://nazimnnazar.pythonanywhere.com/)**
+- 💬 Ask me about python,django,vue,html,css,js 
 
 - 📫 How to reach me **nazimnnazar123456@gmail.com**
 
-- ⚡ Fun fact **I play games .**
+- ⚡ Fun fact **Gaming.**
 
 <br><br>
 ## 🚀 Languages and Tools:
