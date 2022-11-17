@@ -5,11 +5,6 @@
 
 
 
-![18181eb39eec9784db256e246954adba]()
-
-
-
-
 ## 🙋‍♂️ About Me
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/112808009/202395084-86a38b4f-6b14-44be-87da-4d1c14ebbdc1.gif">   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinefernandes&label=Profile%20views&color=0e75b6&style=flat" alt="valentinefernandes" /> </p>
@@ -26,7 +21,7 @@
 
 - ⚡ Fun fact **I play games .**
 
-
+<br><br>
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
