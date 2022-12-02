@@ -87,7 +87,14 @@
 
 <br/>
 <br/>
-
+ <p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&layout=compact&hide=html&theme=dracula"/>
+ 
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  </P><br>
+  
+ 
 ## Connect with me:
 <p align="left">
 
