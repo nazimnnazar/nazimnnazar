@@ -52,6 +52,42 @@
   </P><br>
   <br/>
  -->
+  
+<div align="center">
+  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=HyunCafe&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  <img src="https://streak-stats.demolab.com?    user=HyunCafe&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+  <img src="https://github-readme-stats-i66v.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+</div> <br>
+
+[![HyunCafe's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HyunCafe&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
+</p>
+
+<img src="assests/borderseperator.gif">
+  <h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hyuncafe/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="mailto:eparksuncafe@gmail.com" target="_blank">
+    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://dev.to/hyuncafe" target="_blank">
+    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
+</a> &nbsp;&nbsp;
+  <a>
+    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
+    <span>HyunSun#7206</span>
+</p> 
 
 <br/>
 <br/>
