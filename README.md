@@ -42,16 +42,6 @@
     </a>
 </p>
 
-
-## 📊 My Github Stats
-<!--  <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazimnnazar&layout=compact&hide=html&theme=dracula"/>
- 
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nazimnazar&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </P><br>
-  <br/>
- -->
   
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
@@ -60,46 +50,11 @@
   <img src="https://github-readme-stats-i66v.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
 </div> <br>
 
-[![HyunCafe's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HyunCafe&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![HyunCafe's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nazimnnazar&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
-</p>
-
-<img src="assests/borderseperator.gif">
-  <h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hyuncafe/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="_blank">
-    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:eparksuncafe@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://dev.to/hyuncafe" target="_blank">
-    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
-</a> &nbsp;&nbsp;
-  <a>
-    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
-    <span>HyunSun#7206</span>
 </p> 
-
-<br/>
-<br/>
-
-
-
-
-<br/>
-<br/>
-
-  
- 
 ## Connect with me:
 <p align="left">
 
