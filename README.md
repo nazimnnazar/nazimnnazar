@@ -41,6 +41,7 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazimnnazar&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
   </tr> 
 </table>
+
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/nazim-n-nazar-94113b243/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
