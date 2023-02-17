@@ -34,7 +34,7 @@
 
 
 <div align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/raj03kumar/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
+  <img align="center" src="https://api.githubtrends.io/user/svg/nazimnnazar/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
 </div>
 
 <br><br>
