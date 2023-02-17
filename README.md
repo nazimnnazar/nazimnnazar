@@ -23,6 +23,10 @@
 - 📫 How to reach me **nazimnnazar123456@gmail.com**
 
 - ⚡ Always eager to learn new things 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nazimnnazar&theme=discord&no-frame=false&no-bg=false&margin-w=4">
+</div>
 
   <br><br><br>
 ## 🚀 Languages and Tools:
