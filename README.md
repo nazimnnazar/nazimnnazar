@@ -21,6 +21,12 @@
 - 💬 Ask me about python,django,vue,html,css,js 
 
 - 📫 How to reach me **nazimnnazar123456@gmail.com**
+# 📈 Productivity Stats:
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazimnnazar&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+  </tr> 
+</table>
 
 - ⚡ Always eager to learn new things 
 ## 🏆 GitHub Trophies
