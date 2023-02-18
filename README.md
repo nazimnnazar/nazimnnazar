@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://nazimnnazar.pythonanywhere.com/)** 
+- 👨‍💻 All of my projects are available at **[My Portfolio]
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
