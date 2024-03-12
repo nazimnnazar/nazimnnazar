@@ -20,7 +20,7 @@
 
 - 💬 Ask me about python,django,vue,html,css,js 
 
-- 📫 How to reach me **nazimnnazar123456@gmail.com**
+- 📫 How to reach me **nazimnnasar@gmail.com**
 
 
 - ⚡ Always eager to learn new things 
