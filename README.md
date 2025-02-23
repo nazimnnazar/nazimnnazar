@@ -1,7 +1,4 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-📩 **Email**: [nazimnnasar@gmail.com](mailto:nazimnnasar@gmail.com)  
-💼 **LinkedIn**: [Nazim N Nazar](https://www.linkedin.com/in/nazim-n-nazar-94113b243/)  
-🐦 **Twitter**: [@your_handle](https://twitter.com/your_handle)  
+![Nazim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazimnnazar&show_icons=true&theme=radical)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nazim N Nazar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
