@@ -27,7 +27,7 @@ Building Scalable Systems • Cloud Infrastructure
 - 🌱 Exploring **AI, distributed systems & advanced infrastructure**
 - 🤝 Open to **collaboration, open source & innovative projects**
 - 💬 Ask me about **DevOps, Python, Django, System Architecture**
-- 📫 Reach me at **nazimnnazar@gmail.com**
+- 📫 Reach me at **nazimnnasar@gmail.com**
 - ⚡ Passionate about **technology, automation & scalable solutions**
 
 ---
