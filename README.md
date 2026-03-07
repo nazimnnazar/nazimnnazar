@@ -51,9 +51,7 @@ Building Scalable Systems • Cloud Infrastructure
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nazimnnazar&theme=discord&no-frame=false&no-bg=false&margin-w=4">
-
+  <img src="https://github-profile-trophy.vercel.app/?username=nazimnnazar&theme=discord&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 ---
