@@ -9,7 +9,7 @@ DevOps Engineer | Software Architect | CEO @ Natechsys
 </h3>
 
 <p align="center">
-Building Scalable Systems • Cloud Infrastructure • Python & Django Platforms
+Building Scalable Systems • Cloud Infrastructure 
 </p>
 
 ---
