@@ -5,7 +5,7 @@ I'm Nazim N Nazar
 </h1>
 
 <h3 align="center">
-DevOps Engineer | Software Architect | CEO @ Natechsys
+DevOps Engineer | Software Architect | CEO @ NATechsys Intelligent Systems Private Limited 
 </h3>
 
 <p align="center">
