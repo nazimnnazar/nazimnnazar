@@ -278,17 +278,8 @@ Managing production environments using:
 </tr>
 
 </table>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/nazimnnazar/nazimnnazar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
+ 
+ 
 ---
 
 # 🔗 Connect With Me
