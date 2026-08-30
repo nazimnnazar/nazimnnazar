@@ -204,36 +204,7 @@ Cross-platform mobile applications with Flutter and scalable APIs.
 </p>
 
 ---
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazimnnazar&layout=compact&theme=github_dark&hide_border=true&langs_count=10" height="200"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nazimnnazar&theme=github-compact&hide_border=true&area=true" width="100%"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nazimnnazar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
-
-</p>
-
----
+ 
 
 # 🚀 Featured Projects
 
