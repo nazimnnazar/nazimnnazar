@@ -1,15 +1,17 @@
 <h1 align="center">
-Hi 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Nazim N Nazar
+  Hi 👋, I'm Nazim N Nazar
 </h1>
 
 <h3 align="center">
-DevOps Engineer | Software Architect | CEO @ NATechsys Intelligent Systems Private Limited 
+  Software Architect | DevOps Engineer | Full-Stack Developer | CEO @ NATechsys
 </h3>
 
 <p align="center">
-Building Scalable Systems • Cloud Infrastructure 
+  7+ Years of Software Development Experience • Scalable Systems • SaaS • Cloud Infrastructure
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nazimnnazar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -18,22 +20,27 @@ Building Scalable Systems • Cloud Infrastructure
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/112808009/202395084-86a38b4f-6b14-44be-87da-4d1c14ebbdc1.gif">
 
-- 👨‍💻 **DevOps Engineer & Software Architect**
-- 🚀 Founder & CEO of **Natechsys**
-- 🏗 Architecting **scalable backend systems & cloud infrastructure**
-- 🐍 Core expertise in **Python, Django, Automation & System Design**
-- 📊 Building **Data-driven platforms & trading analysis systems**
-- 🔭 Currently working on **large-scale web platforms & SaaS systems**
-- 🌱 Exploring **AI, distributed systems & advanced infrastructure**
-- 🤝 Open to **collaboration, open source & innovative projects**
-- 💬 Ask me about **DevOps, Python, Django, System Architecture**
+- 👨‍💻 **Software Architect & DevOps Engineer** with **7+ years of development experience**
+- 🚀 Founder & CEO of **NATechsys Intelligent Systems Private Limited**
+- 🏗️ Designing and building **scalable backend systems, SaaS platforms & cloud infrastructure**
+- 🐍 Strong expertise in **Python, Django, REST APIs, automation & system architecture**
+- ☁️ Experienced in **Linux, Docker, Nginx, AWS & cloud deployments**
+- 🗄️ Working with **PostgreSQL, Redis & production database systems**
+- 📱 Building cross-platform applications using **Flutter & Dart**
+- 🎨 Experienced with modern frontend technologies including **React, Next.js & Tailwind CSS**
+- 🔧 Experienced in **Git, GitHub, deployment, server management & DevOps workflows**
+- 📊 Building **data-driven platforms, business systems & trading analysis applications**
+- 🔭 Currently working on **SaaS platforms, scalable web applications & intelligent systems**
+- 🌱 Exploring **AI, distributed systems, cloud architecture & advanced infrastructure**
+- 🤝 Open to **technical collaborations, open-source projects & innovative products**
+- 💬 Ask me about **Python, Django, DevOps, Cloud, APIs & System Architecture**
 - 📫 Reach me at **nazimnnasar@gmail.com**
-- ⚡ Passionate about **technology, automation & scalable solutions**
 
 ---
+
 ## 🛠️ Tech Stack
 
-### 💻 Backend
+### 💻 Backend & Programming
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -61,7 +68,7 @@ Building Scalable Systems • Cloud Infrastructure
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-### 🗄️ Database & Storage
+### 🗄️ Database & Caching
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -69,7 +76,7 @@ Building Scalable Systems • Cloud Infrastructure
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps, Cloud & Infrastructure
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -77,12 +84,13 @@ Building Scalable Systems • Cloud Infrastructure
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Version Control
+### 🔗 APIs & Development Tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -90,42 +98,20 @@ Building Scalable Systems • Cloud Infrastructure
 
 ---
 
-## 📈 GitHub Stats
+## 🏗️ What I Build
 
-<table align="center">
-<tr>
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazimnnazar&theme=monokai" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔗 Connect with Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/nazim-n-nazar-94113b243/">
-<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
-
-</p>
-
----
-
-## 👀 Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=nazimnnazar" alt="Profile Views">
-</a>
-
-<a href="https://github.com/nazimnnazar?tab=followers">
-<img src="https://img.shields.io/github/followers/nazimnnazar?label=Followers&style=social" alt="GitHub Followers">
-</a>
-
-<a href="https://github.com/nazimnnazar">
-<img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nazimnnazar?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/>
-</a>
+```text
+┌───────────────────────────────────────────────┐
+│              SOFTWARE ARCHITECTURE            │
+├───────────────────────────────────────────────┤
+│                                               │
+│  🌐 SaaS Platforms                            │
+│  ⚙️ Scalable Backend Systems                 │
+│  🔗 REST API & Integrations                   │
+│  ☁️ Cloud Infrastructure                      │
+│  🐳 Containerized Applications                │
+│  📱 Cross-Platform Mobile Applications       │
+│  📊 Data-Driven Business Systems              │
+│  🤖 Automation & Intelligent Systems          │
+│                                               │
+└───────────────────────────────────────────────┘
